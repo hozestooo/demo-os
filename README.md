@@ -1,6 +1,6 @@
 # demoOS
 
-![demoOS Boot Display](./assets/boot_display.png)
+![demoOS Boot Display](./Images/intro.jpg)
 
 ## About
 
