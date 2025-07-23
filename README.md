@@ -4,7 +4,7 @@
 
 ## About
 
-demoOS is an operating system I developed using the Cosmos OS framework. It serves as a learning platform demonstrating fundamental operating system concepts.
+demoOS is a terminal based operating system I developed using the Cosmos OS development kit. It serves as a learning platform demonstrating fundamental operating system concepts.
 
 ## Features
 
